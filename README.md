@@ -38,21 +38,6 @@ Git • GitHub • Vercel • VS Code
 
 ## 🚀 Featured Projects
 
-### 🏥 Vitalyn — Multimodal Healthcare Intelligence Platform
-
-An AI-powered healthcare platform that analyzes patient vitals, facial video, and voice signals through a multimodal machine learning pipeline.
-
-#### Highlights
-
-* Random Forest risk prediction trained on clinical datasets
-* PyTorch-based facial fatigue detection
-* Voice stress analysis using RAVDESS
-* NVIDIA NIM + LLaMA integration for clinical reasoning
-* Automatic SOAP-format medical report generation
-* React + FastAPI architecture
-
----
-
 ### 🛡️ CypherX — Real-Time Phishing Detection Platform
 
 A cybersecurity platform that detects phishing URLs and suspicious links in real time.
