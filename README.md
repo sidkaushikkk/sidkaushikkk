@@ -1,4 +1,4 @@
-# Hi, I'm Sidhant Kaushik 👋
+# Hey, I'm Sidhant Kaushik 
 
 ### 🚀 AI Engineer | Full-Stack Developer | Cybersecurity Enthusiast
 
