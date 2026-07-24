@@ -1,4 +1,4 @@
-# Hey, I'm Sidhant Kaushik 
+# Hey, I'm Sidhant Kaushik , a software enthusiast.
 
 ### 🚀 AI Engineer | Full-Stack Developer | Cybersecurity Enthusiast
 
@@ -36,6 +36,12 @@ Git • GitHub • Vercel • VS Code
 
 ---
 
+## 🚀 Work Experience
+
+### Web Developer Intern @Hitachi Systems India Pvt. Ltd.  (July 2026 - Present)
+
+
+---
 ## 🚀 Featured Projects
 
 ### 🛡️ CypherX — Real-Time Phishing Detection Platform
@@ -56,7 +62,7 @@ A cybersecurity platform that detects phishing URLs and suspicious links in real
 
 ## 🏆 Achievements
 
-🥈 2nd Place — HackDUCS Hackathon (103 Teams)
+🥈 2nd Place — HackDUCS Hackathon , Delhi University (103 Teams)
 
 🏅 Top 7 — Orbix Hackathon, IIIT Delhi (500+ Teams)
 
