@@ -38,7 +38,10 @@ Git • GitHub • Vercel • VS Code
 
 ## 🚀 Work Experience
 
-### Web Developer Intern @Hitachi Systems India Pvt. Ltd.  (July 2026 - Present)
+### Web Developer Intern @Hitachi Systems India Pvt. Ltd. , Gurugram (July 2026 - Present)
+
+* Working as a full stack developer in one of the most prominent IT consultancy and services MNC.
+* Working on real projects and simultaneously learning from eminent industry professionals.
 
 
 ---
