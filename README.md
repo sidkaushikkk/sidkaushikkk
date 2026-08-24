@@ -42,32 +42,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/sidkaushikkk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidkaushikkk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" alt="Sidhant's GitHub stats"/>
-</a>
-
-<a href="https://github.com/sidkaushikkk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidkaushikkk&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/sidkaushikkk">
-  <img src="https://streak-stats.demolab.com/?user=sidkaushikkk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</a>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -80,34 +54,22 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidkaushikkk&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
-</a>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 GitLogs
+### 🧠 ATS Analyzer
 
-**Repository Analyzer**
+**Resume Analyzer and Score Generator**
 
-A project focused on analyzing repositories and surfacing useful development insights.
+A project focused on creating and analyzing resumes with scored insights, problems, suggestions and suggested roles.
 
 **Focus:**
-`Git` `Repository Analysis` `Developer Tools`
+ `Resume Analysis` `Developer Tools`
 
-[View Project →](https://github.com/sidkaushikkk)
+[View Project →](https://ats-tracker-lite.vercel.app)
 
 </td>
 
@@ -166,15 +128,7 @@ My personal portfolio showcasing my work, projects, experience and technical jou
 
 ---
 
-# 📊 Contribution Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sidkaushikkk&show_icons=true&hide_border=true&hide=issues&theme=tokyonight" alt="GitHub statistics">
-
-</div>
-
----
 
 # 🔥 Commit Activity
 
